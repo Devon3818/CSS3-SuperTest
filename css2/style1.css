@@ -1,0 +1,23 @@
+﻿* { margin:0; padding:0;}
+html { min-height:558px; min-width:1250px; height:100%;}
+#all-wrap { width:100%; height:100%; overflow:hidden;}
+body { background:url(../img2/bg.png) no-repeat; width:100%; height:100%; -overflow:hidden;}
+#wrap0 { width:100%; height:590px; margin:0px auto; position:relative; overflow:hidden; opacity:0.1;}
+
+
+.dd:hover { cursor:pointer;}
+
+
+
+#wrap0,#wrap1,#wrap2,#wrap3,#wrap4 { width:100%; height:100%; opacity:0; overflow-x:hidden;}
+.dd { margin-top:22px;}
+
+
+
+
+
+
+#div0 { width:297px; height:5880px; position:absolute; top:0;left:0px; background:url(../img2/a1.png) repeat-Y;}
+#div1 { width:342px; height:5880px; background:url(../img2/a2.png) repeat-Y; position:absolute;top:0;left:297px;}
+#div2 { width:342px; height:5880px; background:url(../img2/a3.png) repeat-Y; position:absolute;top:0;left:639px;}
+#div3 { width:297px; height:5880px; background:url(../img2/a4.png) repeat-Y; position:absolute;top:0;left:981px;}
